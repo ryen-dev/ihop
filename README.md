@@ -1,53 +1,23 @@
 # International Happiness of People (IHoP)
 
-This is an [Observable Framework](https://observablehq.com/framework) project. To start the local preview server, run:
+## Team
+[Ryan](https://github.com/ryanmattt): Map Chart Designer and Head Programmer
+[Leonard](https://www.linkedin.com/in/leonard-mayorga-435217241/): Cartogram Designer and Programmer
+[Nick](https://www.instagram.com/nicholaspapapanou/): Head Designer and Associate Programmer
+[Gavin](https://www.instagram.com/gavin_tatum/): Radar Chart Designer and Programmer, Film Director & Visionary
+[Brett](https://instagram.com/brett__donshik): Task and Communication Manager
 
-```
-npm run dev
-```
+## Project Intro
+Imagine a staircase, with steps numbered from 0 to 10. The top of these steps is nirvana whereas the bottom is literal torture. What step are you on? What step is everyone else on?
+Our objective with this visulization is to allow you to try and get a better understanding of what factors can play into happiness levels of a country. 
+<br>
+This project was done as part of the Course Data Visualization (taught by [Angie Dag Hjort](instagram.com/fairyanimal/)) at [DIS Study Abroad in Scandinavia, Stockholm](https://disabroad.org/stockholm/). 
+<br>
+The website was built by Ryan with Observable Framework. The visualizations were built by Ryan, Gavin and Leonard
 
-Then visit <http://localhost:3000> to preview your project.
 
-For more, see <https://observablehq.com/framework/getting-started>.
+## Data
+Our two sources are [the World Happiness Report](https://worldhappiness.report/) and [the Mental State of the World Report](https://mentalstateoftheworld.report/)
 
-## Project structure
-
-A typical Framework project looks like this:
-
-```ini
-.
-├─ src
-│  ├─ components
-│  │  └─ timeline.js           # an importable module
-│  ├─ data
-│  │  ├─ launches.csv.js       # a data loader
-│  │  └─ events.json           # a static data file
-│  ├─ example-dashboard.md     # a page
-│  ├─ example-report.md        # another page
-│  └─ index.md                 # the home page
-├─ .gitignore
-├─ observablehq.config.js      # the project config file
-├─ package.json
-└─ README.md
-```
-
-**`src`** - This is the “source root” — where your source files live. Pages go here. Each page is a Markdown file. Observable Framework uses [file-based routing](https://observablehq.com/framework/routing), which means that the name of the file controls where the page is served. You can create as many pages as you like. Use folders to organize your pages.
-
-**`src/index.md`** - This is the home page for your site. You can have as many additional pages as you’d like, but you should always have a home page, too.
-
-**`src/data`** - You can put [data loaders](https://observablehq.com/framework/loaders) or static data files anywhere in your source root, but we recommend putting them here.
-
-**`src/components`** - You can put shared [JavaScript modules](https://observablehq.com/framework/javascript/imports) anywhere in your source root, but we recommend putting them here. This helps you pull code out of Markdown files and into JavaScript modules, making it easier to reuse code across pages, write tests and run linters, and even share code with vanilla web applications.
-
-**`observablehq.config.js`** - This is the [project configuration](https://observablehq.com/framework/config) file, such as the pages and sections in the sidebar navigation, and the project’s title.
-
-## Command reference
-
-| Command           | Description                                              |
-| ----------------- | -------------------------------------------------------- |
-| `npm install`            | Install or reinstall dependencies                        |
-| `npm run dev`        | Start local preview server                               |
-| `npm run build`      | Build your static site, generating `./dist`              |
-| `npm run deploy`     | Deploy your project to Observable                        |
-| `npm run clean`      | Clear the local data loader cache                        |
-| `npm run observable` | Run commands like `observable help`                      |
+## [Project Itself](https://dis-2024-spring.observablehq.cloud/ihop/)
+![](https://cdn.discordapp.com/attachments/1080177707268194415/1236968641044414484/image.png?ex=6639f051&is=66389ed1&hm=76cadf272a901177dbc1f9b59142decbe9013957baef14d9a29fc097a1aca6d2&)
