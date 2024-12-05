@@ -1,0 +1,758 @@
+{
+    "2006": {
+        "year": [
+            "2006",
+            "2006"
+        ],
+        "lifeladder": [
+            3.202,
+            7.672
+        ],
+        "Log GDP per capita": [
+            6.792,
+            11.433
+        ],
+        "Social Support": [
+            0.435,
+            0.97
+        ],
+        "Life Expectancy": [
+            6.72,
+            71.58
+        ],
+        "Freedom in Life Choices": [
+            0.281,
+            0.969
+        ],
+        "Generosity": [
+            -0.31,
+            0.438
+        ],
+        "Perceived Corruption": [
+            0.132,
+            0.967
+        ],
+        "Positive Weight": [
+            0.353,
+            0.837
+        ],
+        "Negative Weight": [
+            0.094,
+            0.469
+        ]
+    },
+    "2007": {
+        "year": [
+            "2007",
+            "2007"
+        ],
+        "lifeladder": [
+            3.28,
+            7.834
+        ],
+        "Log GDP per capita": [
+            6.84,
+            11.212
+        ],
+        "Social Support": [
+            0.479,
+            0.97
+        ],
+        "Life Expectancy": [
+            41.48,
+            72.64
+        ],
+        "Freedom in Life Choices": [
+            0.295,
+            0.932
+        ],
+        "Generosity": [
+            -0.287,
+            0.477
+        ],
+        "Perceived Corruption": [
+            0.064,
+            0.976
+        ],
+        "Positive Weight": [
+            0.351,
+            0.833
+        ],
+        "Negative Weight": [
+            0.114,
+            0.435
+        ]
+    },
+    "2008": {
+        "year": [
+            "2008",
+            "2008"
+        ],
+        "lifeladder": [
+            2.808,
+            7.971
+        ],
+        "Log GDP per capita": [
+            6.7,
+            11.177
+        ],
+        "Social Support": [
+            0.291,
+            0.983
+        ],
+        "Life Expectancy": [
+            17.36,
+            72.76
+        ],
+        "Freedom in Life Choices": [
+            0.26,
+            0.97
+        ],
+        "Generosity": [
+            -0.309,
+            0.423
+        ],
+        "Perceived Corruption": [
+            0.066,
+            0.968
+        ],
+        "Positive Weight": [
+            0.371,
+            0.851
+        ],
+        "Negative Weight": [
+            0.12,
+            0.448
+        ]
+    },
+    "2009": {
+        "year": [
+            "2009",
+            "2009"
+        ],
+        "lifeladder": [
+            3.408,
+            7.683
+        ],
+        "Log GDP per capita": [
+            6.687,
+            11.628
+        ],
+        "Social Support": [
+            0.326,
+            0.964
+        ],
+        "Life Expectancy": [
+            44,
+            72.88
+        ],
+        "Freedom in Life Choices": [
+            0.258,
+            0.949
+        ],
+        "Generosity": [
+            -0.307,
+            0.523
+        ],
+        "Perceived Corruption": [
+            0.035,
+            0.979
+        ],
+        "Positive Weight": [
+            0.391,
+            0.841
+        ],
+        "Negative Weight": [
+            0.112,
+            0.466
+        ]
+    },
+    "2010": {
+        "year": [
+            "2010",
+            "2010"
+        ],
+        "lifeladder": [
+            3.229,
+            7.771
+        ],
+        "Log GDP per capita": [
+            6.932,
+            11.647
+        ],
+        "Social Support": [
+            0.483,
+            0.976
+        ],
+        "Life Expectancy": [
+            28,
+            73
+        ],
+        "Freedom in Life Choices": [
+            0.364,
+            0.944
+        ],
+        "Generosity": [
+            -0.306,
+            0.534
+        ],
+        "Perceived Corruption": [
+            0.06,
+            0.983
+        ],
+        "Positive Weight": [
+            0.402,
+            0.847
+        ],
+        "Negative Weight": [
+            0.083,
+            0.431
+        ]
+    },
+    "2011": {
+        "year": [
+            "2011",
+            "2011"
+        ],
+        "lifeladder": [
+            2.936,
+            7.788
+        ],
+        "Log GDP per capita": [
+            6.694,
+            11.635
+        ],
+        "Social Support": [
+            0.303,
+            0.977
+        ],
+        "Life Expectancy": [
+            33.32,
+            73.12
+        ],
+        "Freedom in Life Choices": [
+            0.333,
+            0.962
+        ],
+        "Generosity": [
+            -0.319,
+            0.457
+        ],
+        "Perceived Corruption": [
+            0.099,
+            0.977
+        ],
+        "Positive Weight": [
+            0.404,
+            0.853
+        ],
+        "Negative Weight": [
+            0.112,
+            0.557
+        ]
+    },
+    "2012": {
+        "year": [
+            "2012",
+            "2012"
+        ],
+        "lifeladder": [
+            3.164,
+            7.776
+        ],
+        "Log GDP per capita": [
+            6.803,
+            11.627
+        ],
+        "Social Support": [
+            0.511,
+            0.979
+        ],
+        "Life Expectancy": [
+            38.64,
+            73.24
+        ],
+        "Freedom in Life Choices": [
+            0.315,
+            0.956
+        ],
+        "Generosity": [
+            -0.308,
+            0.649
+        ],
+        "Perceived Corruption": [
+            0.081,
+            0.962
+        ],
+        "Positive Weight": [
+            0.41,
+            0.849
+        ],
+        "Negative Weight": [
+            0.095,
+            0.705
+        ]
+    },
+    "2013": {
+        "year": [
+            "2013",
+            "2013"
+        ],
+        "lifeladder": [
+            2.688,
+            7.594
+        ],
+        "Log GDP per capita": [
+            6.851,
+            11.636
+        ],
+        "Social Support": [
+            0.484,
+            0.967
+        ],
+        "Life Expectancy": [
+            43.96,
+            73.36
+        ],
+        "Freedom in Life Choices": [
+            0.39,
+            0.95
+        ],
+        "Generosity": [
+            -0.293,
+            0.694
+        ],
+        "Perceived Corruption": [
+            0.117,
+            0.973
+        ],
+        "Positive Weight": [
+            0.354,
+            0.874
+        ],
+        "Negative Weight": [
+            0.124,
+            0.622
+        ]
+    },
+    "2014": {
+        "year": [
+            "2014",
+            "2014"
+        ],
+        "lifeladder": [
+            2.839,
+            7.508
+        ],
+        "Log GDP per capita": [
+            6.723,
+            11.638
+        ],
+        "Social Support": [
+            0.444,
+            0.968
+        ],
+        "Life Expectancy": [
+            47.66,
+            73.48
+        ],
+        "Freedom in Life Choices": [
+            0.369,
+            0.956
+        ],
+        "Generosity": [
+            -0.291,
+            0.703
+        ],
+        "Perceived Corruption": [
+            0.078,
+            0.976
+        ],
+        "Positive Weight": [
+            0.41,
+            0.876
+        ],
+        "Negative Weight": [
+            0.106,
+            0.564
+        ]
+    },
+    "2015": {
+        "year": [
+            "2015",
+            "2015"
+        ],
+        "lifeladder": [
+            2.702,
+            7.603
+        ],
+        "Log GDP per capita": [
+            6.937,
+            11.637
+        ],
+        "Social Support": [
+            0.434,
+            0.987
+        ],
+        "Life Expectancy": [
+            48.1,
+            73.6
+        ],
+        "Freedom in Life Choices": [
+            0.389,
+            0.98
+        ],
+        "Generosity": [
+            -0.275,
+            0.695
+        ],
+        "Perceived Corruption": [
+            0.095,
+            0.962
+        ],
+        "Positive Weight": [
+            0.363,
+            0.884
+        ],
+        "Negative Weight": [
+            0.103,
+            0.643
+        ]
+    },
+    "2016": {
+        "year": [
+            "2016",
+            "2016"
+        ],
+        "lifeladder": [
+            2.693,
+            7.66
+        ],
+        "Log GDP per capita": [
+            6.707,
+            11.664
+        ],
+        "Social Support": [
+            0.29,
+            0.985
+        ],
+        "Life Expectancy": [
+            42.25,
+            73.725
+        ],
+        "Freedom in Life Choices": [
+            0.304,
+            0.984
+        ],
+        "Generosity": [
+            -0.27,
+            0.683
+        ],
+        "Perceived Corruption": [
+            0.047,
+            0.969
+        ],
+        "Positive Weight": [
+            0.401,
+            0.833
+        ],
+        "Negative Weight": [
+            0.108,
+            0.57
+        ]
+    },
+    "2017": {
+        "year": [
+            "2017",
+            "2017"
+        ],
+        "lifeladder": [
+            2.662,
+            7.788
+        ],
+        "Log GDP per capita": [
+            5.943,
+            11.653
+        ],
+        "Social Support": [
+            0.32,
+            0.967
+        ],
+        "Life Expectancy": [
+            42.9,
+            73.85
+        ],
+        "Freedom in Life Choices": [
+            0.427,
+            0.985
+        ],
+        "Generosity": [
+            -0.293,
+            0.654
+        ],
+        "Perceived Corruption": [
+            0.162,
+            0.954
+        ],
+        "Positive Weight": [
+            0.367,
+            0.823
+        ],
+        "Negative Weight": [
+            0.114,
+            0.599
+        ]
+    },
+    "2018": {
+        "year": [
+            "2018",
+            "2018"
+        ],
+        "lifeladder": [
+            2.694,
+            7.858
+        ],
+        "Log GDP per capita": [
+            5.935,
+            11.645
+        ],
+        "Social Support": [
+            0.485,
+            0.984
+        ],
+        "Life Expectancy": [
+            49.3,
+            73.975
+        ],
+        "Freedom in Life Choices": [
+            0.374,
+            0.97
+        ],
+        "Generosity": [
+            -0.338,
+            0.509
+        ],
+        "Perceived Corruption": [
+            0.097,
+            0.952
+        ],
+        "Positive Weight": [
+            0.379,
+            0.841
+        ],
+        "Negative Weight": [
+            0.093,
+            0.544
+        ]
+    },
+    "2019": {
+        "year": [
+            "2019",
+            "2019"
+        ],
+        "lifeladder": [
+            2.375,
+            7.78
+        ],
+        "Log GDP per capita": [
+            5.527,
+            11.649
+        ],
+        "Social Support": [
+            0.42,
+            0.982
+        ],
+        "Life Expectancy": [
+            44.2,
+            74.1
+        ],
+        "Freedom in Life Choices": [
+            0.385,
+            0.97
+        ],
+        "Generosity": [
+            -0.291,
+            0.563
+        ],
+        "Perceived Corruption": [
+            0.07,
+            0.963
+        ],
+        "Positive Weight": [
+            0.308,
+            0.841
+        ],
+        "Negative Weight": [
+            0.093,
+            0.502
+        ]
+    },
+    "2020": {
+        "year": [
+            "2020",
+            "2020"
+        ],
+        "lifeladder": [
+            2.634,
+            7.889
+        ],
+        "Log GDP per capita": [
+            7.596,
+            11.42
+        ],
+        "Social Support": [
+            0.507,
+            0.983
+        ],
+        "Life Expectancy": [
+            53.575,
+            74.225
+        ],
+        "Freedom in Life Choices": [
+            0.51,
+            0.965
+        ],
+        "Generosity": [
+            -0.264,
+            0.532
+        ],
+        "Perceived Corruption": [
+            0.164,
+            0.961
+        ],
+        "Positive Weight": [
+            0.332,
+            0.816
+        ],
+        "Negative Weight": [
+            0.083,
+            0.532
+        ]
+    },
+    "2021": {
+        "year": [
+            "2021",
+            "2021"
+        ],
+        "lifeladder": [
+            2.179,
+            7.794
+        ],
+        "Log GDP per capita": [
+            7.112,
+            11.571
+        ],
+        "Social Support": [
+            0.436,
+            0.98
+        ],
+        "Life Expectancy": [
+            51.3,
+            74.35
+        ],
+        "Freedom in Life Choices": [
+            0.394,
+            0.965
+        ],
+        "Generosity": [
+            -0.287,
+            0.543
+        ],
+        "Perceived Corruption": [
+            0.145,
+            0.946
+        ],
+        "Positive Weight": [
+            0.179,
+            0.834
+        ],
+        "Negative Weight": [
+            0.116,
+            0.607
+        ]
+    },
+    "2022": {
+        "year": [
+            "2022",
+            "2022"
+        ],
+        "lifeladder": [
+            1.281,
+            7.729
+        ],
+        "Log GDP per capita": [
+            7.007,
+            11.66
+        ],
+        "Social Support": [
+            0.228,
+            0.985
+        ],
+        "Life Expectancy": [
+            51.75,
+            74.475
+        ],
+        "Freedom in Life Choices": [
+            0.368,
+            0.975
+        ],
+        "Generosity": [
+            -0.316,
+            0.519
+        ],
+        "Perceived Corruption": [
+            0.19,
+            0.942
+        ],
+        "Positive Weight": [
+            0.206,
+            0.835
+        ],
+        "Negative Weight": [
+            0.095,
+            0.576
+        ]
+    },
+    "2005": {
+        "year": [
+            "2005",
+            "2005"
+        ],
+        "lifeladder": [
+            4.719,
+            8.019
+        ],
+        "Log GDP per capita": [
+            8.252,
+            10.849
+        ],
+        "Social Support": [
+            0.591,
+            0.979
+        ],
+        "Life Expectancy": [
+            53.2,
+            72.4
+        ],
+        "Freedom in Life Choices": [
+            0.623,
+            0.971
+        ],
+        "Perceived Corruption": [
+            0.237,
+            0.983
+        ],
+        "Positive Weight": [
+            0.479,
+            0.803
+        ],
+        "Negative Weight": [
+            0.151,
+            0.456
+        ],
+        "Generosity": [
+            0.248,
+            0.248
+        ]
+    }
+}
